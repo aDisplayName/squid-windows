@@ -5,3 +5,5 @@ installer/bin/
 squid/diladele/
 *.suo
 sign.bat
+bin/
+.vs/
